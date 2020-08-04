@@ -1,0 +1,25 @@
+{
+  "name": "employeetracker",
+  "version": "1.0.0",
+  "description": "manage employees through command line ",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Faduma92/Employee-Tracker.git"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "Github: Faduma92",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Faduma92/Employee-Tracker/issues"
+  },
+  "homepage": "https://github.com/Faduma92/Employee-Tracker#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
+}
